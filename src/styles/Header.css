@@ -1,0 +1,19 @@
+header{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  line-height: 2;
+  background:rgb(40 44 52) ;
+  color: white;
+}
+
+header .stats{
+  display: flex;
+  flex-direction: row;
+  gap: 4vmin;
+  justify-content: center;
+  align-items: center;
+}

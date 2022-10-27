@@ -1,0 +1,22 @@
+.loading{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+}
+.loading img{
+  width: 10vmax;
+  height: 10vmax;
+}
+
+.loading p{
+  -webkit-text-stroke: 2px  var(--font-outline) ;
+  color:  var(--font-inner);
+  letter-spacing:2px;
+  font-size: 4vmax;
+  line-height: 1;
+
+}
