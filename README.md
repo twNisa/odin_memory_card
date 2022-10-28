@@ -2,7 +2,7 @@
 From The Odin Project
 [Live App](https://twnisa.github.io/odin_memory_game/)
 
-![Screenshot](./weatherApp.png)
+![Screenshot](./screenshot.png)
 
 # Project
 This project was made using React.
