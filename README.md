@@ -1,6 +1,6 @@
 # Pokemon memory card game
 From The Odin Project
-[Live App](https://twnisa.github.io/odin_memory_game/)
+[Live App](https://twnisa.github.io/odin_memory_card/)
 
 ![Screenshot](./screenshot.png)
 
